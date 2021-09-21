@@ -5,6 +5,7 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "modid.refmap.json",
   "mixins": [
+    "ExampleMixin"
   ],
   "client": [
   ],
